@@ -66,7 +66,7 @@ F | F | F
 
 # Un pedacito de código en Python
 ```python
-print("Este es un ejempo de código en Python)
+print("Este es un ejempo de código en Python")
 a = 5
 b = 3
 c = a+b
