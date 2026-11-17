@@ -17,7 +17,7 @@ Esto también es texto en __negrillas__
 
 Y *se pueden __combinar__ de esta manera*
 
-Esta es una lista de colores_
+Esta es una lista de colores:
 * Rojo
 * Verde
 * Naranja
