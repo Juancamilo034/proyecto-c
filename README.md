@@ -6,3 +6,13 @@ Autor: Juan Camilo Osorio Montes
 Esto es texto normal
 ### Este es un encabezado de nivel 3
 Esto es más texto normal
+
+Esto es texto en *cursiva*
+
+Esto también es texto en _cursiva_
+
+Esto es texto en **negrillas**
+
+Esto también es texto en __negrillas__
+
+Y *se pueden __combinar__ de esta manera*
