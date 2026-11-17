@@ -16,3 +16,16 @@ Esto es texto en **negrillas**
 Esto también es texto en __negrillas__
 
 Y *se pueden __combinar__ de esta manera*
+
+Esta es una lista de colores_
+* Rojo
+* Verde
+* Naranja
+* Azul
+
+Esta es una lista numerada:
+1. Fiat
+2. Volvo
+3. Renault
+4. Mazda
+
